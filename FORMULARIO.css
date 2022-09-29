@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color:rgb(7, 7, 7)
+    }
+    body{
+    background-image: URL(fotos.1.jpg) ;
+    }
+    .form-register{
+    width: 400px;
+    background: #c2669b;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    3
+    font-family: 'calibri';
+    color: white;
+    }
+    .form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    }
+    .Controls{
+    width: 100%;
+    background: #e0e5eb;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    }
+    .form-register a:hover {
+    color: rgb(10, 10, 10);
+    text-decoration: underline;
+    }
+    .form-register .botons{
+    width: 100%;
+    background: #073db3;
+    border: none;
+    padding: 12px;
+    color: rgb(3, 3, 3);
+    margin: 16px 0;
+    font-size: 16px;
+    }
+    
